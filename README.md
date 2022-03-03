@@ -1,0 +1,2 @@
+# library-manangement
+Online Library Management Application is a system which maintains the information about the books present in the library, the students of college to whom books are issued, library staff and all. This is very difficult to organize manually. Maintenance of all this information manually is a very complex task. Owing to the advancement of technology, organization of an Online Library becomes much simple. 
